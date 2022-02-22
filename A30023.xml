@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief reply to George Whitehead's book stiled, A rambling pilgrim in answer to a book intituled The pilgrim's progress from Quakerism to Christianity : shewing the danger of the Quakers government within the government and opposite to it ... contrary to the laws of the land and particularly to the Act of Toleration / by Francis Bugg.</title>
+            <author>Bugg, Francis, 1640-1724?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30023</idno>
+            <idno type="STC">Wing B5368</idno>
+            <idno type="STC">ESTC R24749</idno>
+            <idno type="EEBO-CITATION">08466221</idno>
+            <idno type="OCLC">ocm 08466221</idno>
+            <idno type="VID">41366</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30023)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41366)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1248:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief reply to George Whitehead's book stiled, A rambling pilgrim in answer to a book intituled The pilgrim's progress from Quakerism to Christianity : shewing the danger of the Quakers government within the government and opposite to it ... contrary to the laws of the land and particularly to the Act of Toleration / by Francis Bugg.</title>
+                  <author>Bugg, Francis, 1640-1724?</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Janeway, Jun. and sold by J. Robinson and C. Brome,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whitehead, George, 1636?-1723. --  Rambling pilgrim.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41366:1" rendition="simple:additions"/>
+            <p>A BRIEF REPLY TO <hi>George Whitehead</hi>'s Book, Stiled, A Rambling Pilgrim; In Anſwer to a Book, Intitled, The <hi>Pilgrim's Progreſs</hi> FROM Quakeriſm to Chriſtianity:</p>
+            <p>SHEWING The Danger of the <hi>Quakers</hi> Government within the Government, and oppoſite to it, as con<g ref="char:EOLhyphen"/>triv'd and carried on in their Monthly, Quar<g ref="char:EOLhyphen"/>terly, Six-week, Second-day, and Yearly Meeting or Convocation, contrary to the Laws of the Land, and particularly, to the <hi>Act of Toleration.</hi>
+            </p>
+            <p>By <hi>FRANCIS BUGG.</hi>
+            </p>
+            <p>
+               <hi>Whatſoever thy hand findeth to do, do it with thy might, for there is no Work, nor Device, nor Knowledge, nor Wiſdom, in the Grave whither thou goest.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed, by <hi>R. Janeway,</hi> Jun. and Sold by <hi>J. Robinſon,</hi> at the <hi>Golden Lion</hi> in St. <hi>Paul</hi>'s Churchyard, and <hi>C. Brome,</hi> at the <hi>Gun</hi> in <hi>Ludgate-ſtreet.</hi> 1700.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:41366:2"/>
+            <pb facs="tcp:41366:2"/>
+            <head>TO THE Right Honourable AND HONOURABLE, THE <hi>Lords Spiritual and Temporal,</hi> AND Commons in Parliament ASSEMBLED.</head>
+            <opener>
+               <salute>May it pleaſe Your Honours,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Humbly make Bold to lay before Your Ho<g ref="char:EOLhyphen"/>nours the Occaſion of Preſenting theſe Pa<g ref="char:EOLhyphen"/>pers: It is not unknown how Sollicitous the <hi>Quakers</hi> have been from time to time under every Revolution and Change of Govern<g ref="char:EOLhyphen"/>ment, from <hi>1652.</hi> to this preſent Day; but of late they have advanced to a degree higher, not only to Preſent their Books and Papers in Seſſion-time, but in the Intervals of Par<g ref="char:EOLhyphen"/>liament they have been ſo Bold, as to ſend them to the very Houſeſ of Memberſ of Par<g ref="char:EOLhyphen"/>liament; upon which I thought it highly ne<g ref="char:EOLhyphen"/>ceſſary
+<pb facs="tcp:41366:3"/>to make ſome Obſervations on their Way and Method of writing, as in my <hi>Mo<g ref="char:EOLhyphen"/>deſt Defence,</hi> &amp;c. Preſented this Seſſion to Your Honours, and with all dutiful Submiſſi<g ref="char:EOLhyphen"/>on, leaving the Matter to Your Mature De<g ref="char:EOLhyphen"/>liberation and Conſideration.</p>
+            <p>But having underſtood ſince that, that the <hi>Quakers</hi> have privately Preſented divers Books under the Sham Titles of Anſwers, not only to that, but to other Books, I ſtill thought it my Duty to write ſome farther Obſervations thereupon, which being read and compared with theirs, together with my Book, <hi>The Pilgrim's Progreſs,</hi> &amp;c. Second Edition, now Publiſhed, and to which the ſe<g ref="char:EOLhyphen"/>veral and often repeated Pages herein men<g ref="char:EOLhyphen"/>tioned do relate, (theſe Papers being part of the <hi>Preface</hi> thereto belonging) it will make ſome farther Diſcovery of their Mock An<g ref="char:EOLhyphen"/>ſwers, both to the ſaid <hi>Pilgrim's Progreſs,</hi> &amp;c. and <hi>Modeſt Defence,</hi> &amp;c. and being loth to have the Porch exceed the Houſe, I Humbly beg leave to ſubmit what I have ſaid herein, to the Conſideration of Your Great Wiſdom, and conclude with all dutiful Submiſſion,</p>
+            <closer>
+               <signed>Right Honourable, and Honourable, Your Honours Moſt Obedient Servant, <hi>FRANCIS BUGG.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:41366:3"/>
+            <head>
+               <hi>George Whitehead</hi>'s Fallacy Reproved, In his ANSWER to My <hi>Pilgrim's Progreſs,</hi> &amp;c.</head>
+            <opener>
+               <salute>GEORGE,</salute>
+            </opener>
+            <p>I Have ſeen thy Book, <hi>A Rambling Pilgrim,</hi> &amp;c. ſaid to be an Anſwer to two Books of mine, <hi>i. e. The Pilgrim's Progreſs,</hi> &amp;c. <hi>A Modeſt Defence,</hi> &amp;c. which is ſo far from being an Anſwer, that it doth not touch at the Tenth part of the Books; and that little you ſpoke to, have (to them who will com<g ref="char:EOLhyphen"/>pare the Books) rather confirms what I charge you withal, than otherwiſe. But that I may ſhew (for your Peoples ſake,) how you wilfully miſtake me, and the ſtate of the Charge, and then miſlead your People, <hi>&amp;c.</hi>
+            </p>
+            <p>I find the firſt part of your Book is chiefly to inſinuate that I ſaid the Sermon was <hi>Geo. Whitehead</hi>'s, of his Forming, of his Preaching, and that in ſo many Words; and thereupon you call it Forgery. Now,
+<pb n="6" facs="tcp:41366:4"/>
+               <hi>George,</hi> this is all Fallacy: For thou, know<g ref="char:EOLhyphen"/>eſt, <hi>George,</hi> in thy Conſcience, that I ne<g ref="char:EOLhyphen"/>ver intended to have it believed, that you at your Yearly, Meeting Preached that ve<g ref="char:EOLhyphen"/>ry Sermon, in ſo many Words; but that I did it to expoſe your Errors contain'd in your Books, out of which that Sermon was by me form'd; and in <hi>p.</hi> 108. and <hi>p.</hi> 222. of the Second Edition, it is expreſly ſaid, <hi>A Sermon for</hi> George Whitehead <hi>to hold Forth,</hi> &amp;c And the Chapter before gives ſeveral Reaſons why I proceeded in that unuſual method: So that your way to have done your Cauſe good, and your People good, had been to have confuted me; firſt, Touching your Doctrine, which I al<g ref="char:EOLhyphen"/>ledged out of your Books. Secondly, That your Practice is otherwiſe than by me re<g ref="char:EOLhyphen"/>preſented. This had been your way to have confuted my Arguments, and to have eſtabliſhed your People. But for you thus to act againſt Light and Knowledge, is ſuch a ſelf-condemn'd Practice, that as for your own ſake, as well as your People whom you miſlead, I could he glad to ſee you leave it now in your Old Age. Take one inſtance.</p>
+            <p>
+               <hi>A Rambling Pilgrim,</hi> &amp;c. <hi>p.</hi> 5. <hi>Francis Bugg</hi> makes <hi>Geor. Whitehead</hi> thus ſpeak, <hi>Friends, I am now come to the laſt thing pro<g ref="char:EOLhyphen"/>pos'd to ſpeak to on this Solemn Occaſion; firſt, Reſpecting Confeſſion of Sin; ſhewing your Exaltation above the Patriarchs, Pro<g ref="char:EOLhyphen"/>phets,
+<pb n="7" facs="tcp:41366:4"/>Apoſtles,</hi> &amp;c. as at large in <hi>p.</hi> 221. of this Book; ſo that I need not repeat it. Now what Anſwer, <hi>George,</hi> doſt thou make to this? Doſt thou ſay, 'tis your Friends Practice to make Confeſſion of Sin to God in your Prayers? Not a word of it. Doſt thou prove in any one page of thoſe 5555555 I there mention, that you ever recommended the practice of making Confeſſion of Sin to God, and begging his Pardon for Chriſt's ſake? Not a word of it. Doſt thou prove but of any of thoſe Books, wrote by thy ſelf, <hi>Fox, Burroughs,</hi> &amp;c. that ever you recommended the Pra<g ref="char:EOLhyphen"/>ctice of the Ten Commandments, the Lord's Prayer, the Apoſtles Creed, either to be read in your Families, or in your Religious Meettings practiced; or the reading the Scripture in your Meetings? Not a word of It. No, here is no denial or Matter of Fact but of your Books, nor the natural Conſequences deduceable therefrom, or your practice agreeable to the ſame: And that it may appear ſo, take your Anſwer in your own words, <hi>viz.</hi> 
+               <q>Thus <hi>Fran. Bugg.</hi> repreſents me Preaching ſuch ſtuff as I ne<g ref="char:EOLhyphen"/>ver preaeched in my Life, nor ever own'd any ſuch flattery or deceit, as to exalt any Auditory above the Patriarchs, Pro<g ref="char:EOLhyphen"/>phets and Apoſtles, <hi>&amp;c.</hi> or to diſſwade any from making Confeſſion of Sin, or asking Pardon for Chriſt's ſake, who have
+<pb n="8" facs="tcp:41366:5"/>need of both, or who have not received forgiveneſs of their Sin.</q>
+            </p>
+            <p>
+               <hi>Firſt,</hi> It's not what you did not diſſwade from, that we are examining; but what you perſwade to: We want not Negatives, but Affirmatives; here you leave your Reader in the Dark: Can you prove that in all thoſe Books and Pages recited, that you ever made Confeſſion of Sin; that you ever asked Pardon for Chriſt's ſake; that you in your Religious Meetings, or in your Families, practiced the Lord's Prayer, the Ten Com<g ref="char:EOLhyphen"/>mandments, the Apoſtles Creed; that you ever read the Holy Scriptures in your Meet<g ref="char:EOLhyphen"/>ings; or further, that you ever in all, or any one of your Books, recommended the practice thereof? If not, the Charge lyes ſtill againſt you, and your Negative Anſwers rather confirm what is ſaid than otherwiſe.</p>
+            <p>As to your Certificate, <hi>p.</hi> 28. about your Cottage; you that can forge Certificates, and ſet Mens Names to it, without their Privity, Knowledge or Conſent, as you did that from <hi>Huntington,</hi> in your Book, <hi>Judgment fixed,</hi> as <hi>Anne Docwra,</hi> in her Letter to Mr. <hi>Criſp, March</hi> 25. 1684. ſays you did; what credit is to be given to it? And beſides, thoſe three Certifiers con<g ref="char:EOLhyphen"/>clude thus, <hi>On credible Information, we verily Believe.</hi> Here then is but their belief on Information; and I am credibly inform<g ref="char:EOLhyphen"/>ed of what I wrote; ſo the Reader is left to believe as he is perſwaded. The like
+<pb n="9" facs="tcp:41366:5"/>may be ſaid of <hi>Will. Mead,</hi> touching his ſaying to <hi>William Harris,</hi> that <hi>Fox</hi>'s Jour<g ref="char:EOLhyphen"/>nal is a better Book than the Bible; this <hi>Will. Mead</hi> does not deny under his Hand; I have only <hi>Geor. Whitehead</hi>'s word for it; and he that can forge Certificates is not to be believed.</p>
+            <p>Again, <hi>p.</hi> 38. <q>What Earnings didſt thou <hi>(F. B.)</hi> make in the late Diſcourſe before the Biſhop of <hi>Norwich,</hi> and the four Mem<g ref="char:EOLhyphen"/>bers of Parliament, where l diſcovered thy repeated Falſhoods, Forgery, Deceit and Wickedneſs in divers Matters? And how thou wert counfounded when Matters were cloſely urg'd againſt thee? <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>Now, <hi>George,</hi> thou knoweſt in thy own Conſcience that this is a Lie ſpoken in Hypo<g ref="char:EOLhyphen"/>criſie, on purpoſe to miſlead thy Diſciples; for thou didſt not prove one falſe Quotation, Matter or Thing, againſt me: But I pro<g ref="char:EOLhyphen"/>ved thee guilty of contempt of the Scrip<g ref="char:EOLhyphen"/>tures, in exalting your ſayings above them, as of greater Authority; and for the truth of this, I ſubmit my ſelf, to thoſe Five Perſons preſent, one of them having often ſhewed his Approbation of my management of that Affair. Theſe things, <hi>George,</hi> do not redound, to thy Credit, and I can truly ſay I am ſorry for thee. <hi>George,</hi> we both grow Ancient, let us write for the good of others, not for Victory; for my part, I do upon the word of a Chriſtian deſign it,
+<pb n="10" facs="tcp:41366:6"/>and if I ſaw my ſelf in an Error, I ſhould willingly ſubmit. Again,</p>
+            <p>
+               <hi>P.</hi> 46. <q>Beſide the falſe Printing and bad Engliſh (aſ <hi>Fr. B.</hi> has expoſed my Book <hi>Iſhmael</hi>) there is another defect after the words [The Lake is thy Portion, which is the Portion of Liars,] the words, [ex<g ref="char:EOLhyphen"/>cept thou ſpeedily repent;] are omitted there, and in ſome other places.</q>
+            </p>
+            <p>To which I Anſwer, let any body com<g ref="char:EOLhyphen"/>pare your Book, <hi>Iſhmael and his Mother caſt out,</hi> &amp;c. in the Original Impreſſion in Quarto, and the Reprint in my <hi>Modeſt Defence,</hi> &amp;c. <hi>Part</hi> 2. and they ſhall find it, for Engliſh, Comma's, and Points, and Words, the ſame. For in the Quarto Impreſſion, <hi>p.</hi> 3. <hi>l.</hi> 15. There is <hi>we</hi> for <hi>wo,</hi> as in <hi>Mod. Def. p.</hi> 7. <hi>l.</hi> 13. there is alſo <hi>we</hi> for <hi>wo;</hi> and ſo in all other places where it was bad Engliſh, and falſe Spelled, and falſe Pointed, ſo it is Reprinted: And as for the words [except thou ſpeedily repent] being left out, I do poſitively ſay 'tis a moſt horrid Lie; there is not a word in the whole Book left out; ſo careful was I. And how then canſt thou pretend to be a Conſciencious Writer, when in the face of the Sun thou canſt thus Prevaricate, Diſſemble, and Lie, and that knowingly? What is become, <hi>George,</hi> of thy ſeriouſneſs, ſincerity and plainneſs thou ſo often boaſts of? Again,</p>
+            <p>
+               <hi>P.</hi> 34. <q>He <hi>(F. B.)</hi> aſſumes the bold<g ref="char:EOLhyphen"/>neſs to promote in Print an Abſtract of
+<pb n="11" facs="tcp:41366:6"/>two Letters of two Clergymen <hi>I pray God open, the Eyes of our Governours, and cauſe them to take into Conſideration this too much, and too deplorable, unlimited and unbounded Tolleration; eſpecially as the Quakers both claim and uſe it,</hi> &amp;c. as in <hi>Pil. Prog. p.</hi> 175. was not this, (ſays <hi>George</hi>) a piece of inſolent confidence, to expoſe this in Print, and thus openly to oppoſe the Liberty Granted, and legally Confirmed by King and Parliament, and thus to render our Governours blind? <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>Now as I think this was a good Pray<g ref="char:EOLhyphen"/>er, ſo do I think it no boldneſs to expoſe it in Print: For, <hi>George,</hi> it was not the Liberty Granted, and by Law Confirmed, which theſe Clergymen either called unli<g ref="char:EOLhyphen"/>mited or unbounded, for the liberty granted is both limited and bounded, as from divers branches of the Laws appear; and particu<g ref="char:EOLhyphen"/>larly by the very Act of Tolleration; ſee <hi>p.</hi> 86, 88, 101, 189, 339. No, the unboun<g ref="char:EOLhyphen"/>ded Liberty which the Quakers take, claim and uſe, is what the Clergy is againſt, and which they Pray the Government would take into their Conſideration; and I am ſure it is a baſe, bold and inſolent things, <hi>George,</hi> in you to expoſe in Print, that the Clergy would repreſent the King and Parliament blind: But I have not herein room to ſet forth your baſeneſs in calling all Kings <hi>Spi<g ref="char:EOLhyphen"/>ritual Egyptians;</hi> all that own any King, ſince the days of Chriſt, <hi>Apoſtates;</hi> that Parliaments choſen by moſt Voices, <hi>are not
+<pb n="12" facs="tcp:41366:7"/>like to Act for God, or the Good of his Peo<g ref="char:EOLhyphen"/>ple;</hi> that <hi>Parliaments are the Beaſt that carry the Whore;</hi> Nay, in your Book, <hi>The Weſt Anſwering to the North,</hi> &amp;c. you juſtifie the Murther of King <hi>Charles</hi> I. ſaying, <hi>The cutting off his Head, was a re<g ref="char:EOLhyphen"/>markable Record of the Righteous Judg<g ref="char:EOLhyphen"/>ment of God;</hi> and for a true ſight of theſe your Antimonarchical, as well as Antimagi<g ref="char:EOLhyphen"/>ſtratical Principles, ſee <hi>p.</hi> 157. to <hi>p.</hi> 175. hereafter. And <hi>George,</hi> you tell us in Print, that your Principles are now no other than they were in the beginning. And what they were in the beginning, I in this Book, the <hi>Pilg. Prog.</hi> &amp;c. have ſet forth: And I think it is both bold and inſolent Confidence in you to revive all theſe your horrid Principles deſtructive to Government and Humane So<g ref="char:EOLhyphen"/>ciety, by telling us you are the ſame in Principles ſtill; and I am afraid we may in this believe you.</p>
+            <p>In the next place I ſhall ſhew, even thee, <hi>George,</hi> what Liberty the Quakers both uſe and claim; which not only thoſe two Clergymen, but many Ten Thouſands, both of Laity and Clergy, are againſt.</p>
+            <p>
+               <hi>Firſt,</hi> Your ſending into the Churches Challenges, as your Friends did at <hi>Weſt-Dereham.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Your going from Houſe to Houſe, like the Popiſh Prieſts, to ſeduce the People, inviting them to your Meetings, giving them Books which ſay the Quakers
+<pb n="13" facs="tcp:41366:7"/>are the one only Church of Chriſt, and that out of your Church there is no Salvation.</p>
+            <p>
+               <hi>Thirdly,</hi> That your Monthly, Quarterly, Six Week, Second Day, and Yearly Meetings, where you revive your old Treaſonable Principles; which Meetings are expreſly againſt the very Act of Tolleration, theſe, and the like, (as in the enſuing Diſcourſe) are the Meetings and the Practices both uſed and claim'd by you: Namely, to hold Convoca<g ref="char:EOLhyphen"/>tions, which the Eſtabliſhed Church, with<g ref="char:EOLhyphen"/>out Licence from His Majeſty, cannot legal<g ref="char:EOLhyphen"/>ly do. Theſe, and the like Practices of yours, all good Chriſtians, and the Laws of the Land, are againſt; and I ſtill pray God to give the Nation a ſight and ſence of it, before it be too late.</p>
+            <p>In Anſwer to your 48th Page, I query thus, Whether it be not as proper for me to Addreſs His Majeſty, on the behalf of the Church of <hi>England,</hi> and other ſound Prote<g ref="char:EOLhyphen"/>ſtants, who hold the Fundamentals of the Chriſtian Religion, as it is for <hi>G. Whitehead</hi> to Addreſs himſelf, by Dedication, to the Clergy and Univerſities, perſonating a Schiſm which profeſſes ſuch Doctrine as tends to overthrow the Chriſtian Faith? Come, <hi>George,</hi> Anſwer me this Queſtion; how came you to be ſuch a Man? You know I could ſhew Books of your Friends, <hi>Bur<g ref="char:EOLhyphen"/>rough, Fiſher, Fox,</hi> and others, who tho' as great Impoſters as any in the World ever knew, yet they have Dedicated and
+<pb n="14" facs="tcp:41366:8"/>Addreſſed, and not only ſo, but Dictated to Kings, Lords and Commons. Come, G. what was your birth? Whence came your breed<g ref="char:EOLhyphen"/>ing? Were you not Rambling Pilgrims, who (like Gypſies) lay in Barns,<note place="margin">See <hi>E. Bur<g ref="char:EOLhyphen"/>rough</hi>'s Epiſt. to his works.</note> lived up<g ref="char:EOLhyphen"/>on Alms, with your Feet at other Mens Tables? What, muſt none Addreſs now but you? Muſt none apply themſelves to the Government but you? Surely, <hi>George,</hi> you are a Pegg too high.</p>
+            <p>Come, <hi>George,</hi> let us reaſon together, what power have you to ſummons all Eccle<g ref="char:EOLhyphen"/>ſiaſtical Courts and Officers, more than I have to ſummon you? What Power have you to Dialogue the Biſhop, and the whole Church, more than I have to Dialogue you? What Authority have you to Arraign, Try, Judge and Condemn all the Clergy in a Kingdom, more than I have to Arraign you, and Try you by your Fruit? I tell you, <hi>George,</hi> I cannot ſee you mount the Stage, and thus Inſult, Domineer and Exalt your ſelves, not only above the Patriarchs, Pro<g ref="char:EOLhyphen"/>phets, Apoſtles, Saints and Martyrs, and all Chriſtians, with reſpect to your ſo much boaſted-of Sinleſs Perfection, but above all the King's Subjects, as if you, and you only, had right to Addreſs, Dedicate and Preſent Papers to the Parliament; and that it were Treaſon to confront you: I tell you, as above noted, that you are a pegg too high.</p>
+            <p>But, <hi>George,</hi> before you had Addreſt your ſelves, and Dedicated your Books to the King
+<pb n="15" facs="tcp:41366:8"/>and Government, you ought to have condemn'd your Books mentioned <hi>p.</hi> 154, 157, 167. And before you had Dedicated this Book to the Clergy, you ought in prudence to have retracted your Books mentioned <hi>p</hi> 217, 249, 250. And as to <hi>G. K</hi>'s. Book, it was ap<g ref="char:EOLhyphen"/>proved by the Quakers; and you ought to have retracted the Doctrine of it, as <hi>G. K.</hi> has; and like<g ref="char:EOLhyphen"/>wiſe <hi>W. Penn</hi>'s and <hi>Alexander Skien</hi>'s mentioned in <hi>p.</hi> 168, 170. But your Temporizing is both ſeen, and diſcovered to be ſeen by others: And now for your Dedication to the Clergy.</p>
+            <p>A Rambling Pilgrim, <hi>p.</hi> 3. <hi>An Epiſtle Dedicatory to thoſe of the Clergy, and of the two Univerſities, whoſe kindneſs</hi> Fran. Bugg <hi>boaſts of.</hi> 30th <hi>of the</hi> 4th <hi>Month,</hi> 1629. <hi>By</hi> George Whitehead.</p>
+            <p>Now <hi>George,</hi> to ſhew you what a kind Reception your Dedication met with from my Benefactors; I ſhall, though I have no order, preſent you with part of a Letter which one of them ſent me; which take as follows, <hi>viz.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>March</hi> 11. 1699.</date>
+                     </dateline>
+                     <salute>Mr. <hi>Bugg,</hi>
+                     </salute>
+                  </opener>
+                  <p>I Cannot but thank you for the ſervice you have done, eſpecially among the Common Peo<g ref="char:EOLhyphen"/>ple, by your way of Writing; and for the plentiful materials you have furniſh'd out, to imploy others, with reſpect both to the Principles and Practices of the Quakers; and your laborious Attendance at Parliament, as a Check to the Inſolencies of the Quakers in their preſenting their deceivable Pa<g ref="char:EOLhyphen"/>pers in which they have been too much neglected; wherefore be not diſhearten'd, but go on, and Charge, the Quakers Party through and through with their Blaſphemies againſt the Bleſſed Trinity, their Doctrine of Infallibility and Sinleſs Perfecti<g ref="char:EOLhyphen"/>on, their denying the Fundamental Articles of our moſt Holy Religion, <hi>viz.</hi> The Incarnation of Chriſt, the Reſurrection of the Body, and the Day Of Judgment. For to talk of Lenitives, and Gen<g ref="char:EOLhyphen"/>tle
+<pb n="16" facs="tcp:41366:9"/>Applications, is like the old way of ſowing Pil<g ref="char:EOLhyphen"/>lows under their Arm holes; and you may as well give Opium in a Lethargy, as to fancy to cure ſome Men into their Senſes by your mild and tender Remedies: And, therefore to deal plainly is the beſt way to work their Converſion, from the Infidelity of Quakeriſm, to the Faith of Chriſt Crucified; which God of his Mercy grant them, if it be his Will.</p>
+                  <p>It was a notable Confeſſion of St. <hi>Paul,</hi> when he drew up an Indictment, and Arraigned himſelf in the Murther of St. <hi>Stephen,</hi> for his ſtanding by and conſenting unto his Death, and holding the Gar<g ref="char:EOLhyphen"/>ment of them that ſlew him. I wiſh the Quakers were Humble enough to follow his Example; whoſe malice I am afraid is greater, and the dignity of the injured Perſon higher; for they have Spirited away our Bleſſed Saviour, and have left us no<g ref="char:EOLhyphen"/>thing but a Notional and Chimerical Chriſt; ſo that we may take up the Lamentation of <hi>Mary Magdalen, They have taken away the Lord, and we know not where they have laid him.</hi>
+                  </p>
+                  <p>That was well noted in the <hi>Spirit of the Hat:</hi> For I am perſwaded there cannot be an Inſtance made in any Society of Men of that bigneſs, that have gotten more Baſtards, and more unnaturally diſ<g ref="char:EOLhyphen"/>poſ'd of them, that have drank deeper Draughts of ſtoln ſecret Intemperance, that have fed high<g ref="char:EOLhyphen"/>er, and fared more deliciouſly every Day, than have ſome of theſe Perfectioniſts in their ſhining brazen diſguiſes of Religion.</p>
+                  <p>I am heartily ſorry for the poor Quaker, I heard lately of, who hanged himſelf<note n="*" place="margin">
+                        <hi>viz. John Ruſt,</hi> a Preacher at <hi>Chate<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ice</hi> in the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſle of <hi>Ely,</hi> who op<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oſed <hi>G. K.</hi>
+                     </note> with <hi>G. K</hi>'s Narra<g ref="char:EOLhyphen"/>tive in his Pocket; and the more for the exact pa<g ref="char:EOLhyphen"/>rallel muſt make between him and <hi>Judas,</hi> both in his Life, and in his Death. I pray God give them Grace to lay it to Heart, and humbly to confeſs their Sins to God, and to beg pardon by the Me<g ref="char:EOLhyphen"/>rits of Chriſt, that God may give them Repentance unto Life.</p>
+                  <closer>
+                     <salute>SIR,</salute>
+                     <signed>Your moſt Faithful Friend to Serve you, <hi>&amp;c.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:41366:9"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
